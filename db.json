@@ -1400,6 +1400,22 @@
           "product-sizeNoInventoryPresent 8": "",
           "product-sizeButton 8": ""
         }
-      ]
+      ],
        
+
+      "NewArrivalData":  [
+
+        {
+          "image": "https://rukminim1.flixcart.com/image/200/200/l407mvk0/shoe/g/j/a/-original-imagezy4wxjeubhd.jpeg?q=70",
+           "title": "U.S. Polo Assn., WROGN...",
+          "price": 1000
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/200/200/ks3jjbk0/blazer/m/v/n/44-pibzlnspo09191-peter-england-original-imag5pz94h73revm.jpeg?q=70",
+          "title": "Suits, Blazers",
+          "price":4000
+        }
+      
+      
+      ]
 }
